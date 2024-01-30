@@ -1,0 +1,8 @@
+-G: @gmail.com
+-H: @hotmail.com
+-C: @comcast.net
+-Y: @yahoo.com
+-O: @outlook.com
+-I: @icloud.com
+-SK: SKIP
+-SV: SAVE
